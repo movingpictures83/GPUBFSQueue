@@ -1,0 +1,2 @@
+Prefix plugins/GPUBFSQueue/example
+Plugin GPUBFSQueue inputfile parameters.txt outputfile none

@@ -1,0 +1,9 @@
+mode	2
+N	1026
+nodes	data/BFS/input1.raw
+M	1015
+neighbors	data/BFS/input2.raw
+V	1025
+visited	data/BFS/input3.raw
+L	103
+currlevel	data/BFS/input4.raw
